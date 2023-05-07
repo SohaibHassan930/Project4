@@ -6,5 +6,6 @@ int main() {
 	num = 5;
 	cout << num;
 	system("color 02");
-	int y;
+	int y=10;
+	cout<<y;
 }
