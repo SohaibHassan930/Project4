@@ -5,5 +5,5 @@ int main() {
 	int num;
 	num = 5;
 	cout << num;
-	system("pause");
+
 }
