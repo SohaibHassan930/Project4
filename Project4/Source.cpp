@@ -6,8 +6,4 @@ int main() {
 	num = 5;
 	cout << num;
 	system("color 02");
-
-
-
-
 }
