@@ -6,5 +6,5 @@ int main() {
 	num = 5;
 	cout << num;
 	int y=5;
-	cout << y;
+
 }
